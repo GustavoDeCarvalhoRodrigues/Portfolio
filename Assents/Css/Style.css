@@ -22,12 +22,12 @@ body {
     padding: 50px 0;
 }
 
-/*footer {
+footer {
     background: #343a40;
     color: white;
     text-align: center;
     padding: 15px 0;
-}*/
+}
 
 .navbar {
     position: fixed;
