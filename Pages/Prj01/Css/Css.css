@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(217, 253, 253);
+}
+header .Titulo {
+    padding-top: 15px;
+    background-color: rgb(1, 167, 167);
+}
+header nav {
+    background-color: rgb(0, 56, 73);
+}
+header .portfolio {
+    text-align: center;
+    max-width: 100%;
+    padding: 0px 31% 0px;
+    background-color: rgba(0, 56, 73, 0.199);
+    color: rgb(0, 86, 99);
+}
+.portfolio a:hover {
+    border: solid;
+    border-width: 5px;
+    border-color: rgb(0, 49, 122);
+    border-radius: 20%;
+    border-top: 150px;
+    border-left: 150px;
+    background-color: rgb(0, 102, 255);
+    box-shadow: 6px 3px rgba(15, 15, 15, 0.39);
+}
+body footer{
+    background-color: rgb(0, 56, 73);
+}
+.active{
+    border: solid;
+    border-width: 5px;
+    border-color: rgb(0, 49, 122);
+    border-radius: 20%;
+    border-top: 150px;
+    border-left: 150px;
+    background-color: rgb(0, 102, 255);
+    box-shadow: 6px 3px rgba(15, 15, 15, 0.377);
+}
